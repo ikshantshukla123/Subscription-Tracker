@@ -3,7 +3,7 @@ import { PASSWORD } from "./env.js";
 
 
 
-export const accountEmail = 'Your email';
+export const accountEmail = 'ikshantshukla24@gmail.com';
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
