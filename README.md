@@ -23,6 +23,7 @@ This is a full-stack Node.js application that allows users to create and manage 
 - **Background Jobs**: Upstash QStash
 - **Email Service**: Nodemailer
 - **Authentication**: Cookie-based (middleware-protected routes)
+- **ArcJet**: for bot and spam protection
 
 ---
 
